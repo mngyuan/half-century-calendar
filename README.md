@@ -1,2 +1,4 @@
 # half-century-calendar
-1962 1973 1979 1990 2001 2007 2018 2029 2035
+valid for the years listed by the month  
+weeks start on friday because life starts on friday  
+support me on [dribbble](dribbble.com/phorust) or ig @kevinmlee.x
